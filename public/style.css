@@ -1,0 +1,59 @@
+
+.color-background-0 {
+    border-radius: 8px;
+    border: 2px solid white;
+    background-color: hsl(30, 60%, 50%);
+}
+.color-text-0 {
+    color: hsl(30, 60%, 10%);
+}
+
+
+.color-background-1 {
+    border-radius: 8px;
+    border: 2px solid white;
+    background-color: hsl(90, 60%, 50%);
+}
+.color-text-1 {
+    color: hsl(90, 60%, 10%);
+}
+
+
+.color-background-2 {
+    border-radius: 8px;
+    border: 2px solid white;
+    background-color: hsl(150, 60%, 50%);
+}
+.color-text-2 {
+    color: hsl(150, 60%, 10%);
+}
+
+
+.color-background-3 {
+    border-radius: 8px;
+    border: 2px solid white;
+    background-color: hsl(210, 60%, 50%);
+}
+.color-text-3 {
+    color: hsl(210, 60%, 10%);
+}
+
+
+.color-background-4 {
+    border-radius: 8px;
+    border: 2px solid white;
+    background-color: hsl(270, 60%, 50%);
+}
+.color-text-4 {
+    color: hsl(270, 60%, 10%);
+}
+
+
+.color-background-5 {
+    border-radius: 8px;
+    border: 2px solid white;
+    background-color: hsl(330, 60%, 50%);
+}
+.color-text-5 {
+    color: hsl(330, 60%, 10%);
+}
